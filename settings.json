@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Baldeagletaf.aternos.me:28710",
+    "ip": "Baldeagletaf.aternos.me",
     "port": 28710,
     "version": "",
     "try-creative": false
