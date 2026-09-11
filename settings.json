@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Baldeagletaf.aternos.me",
-    "port": 28710,
+    "ip": "baldeagletaf.play.hosting",
+    "port": 25935,
     "version": "",
     "try-creative": false
   },
