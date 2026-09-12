@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "baldeagletaf.play.hosting",
-    "port": 25935,
+    "ip": "62.141.62.24",
+    "port": 20335,
     "version": "",
     "try-creative": false
   },
